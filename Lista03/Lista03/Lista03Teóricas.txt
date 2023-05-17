@@ -1,0 +1,15 @@
+1- O paradigma de orientação a objetos é uma abordagem de programação que utiliza objetos para organizar e estruturar o código. Ele é usado para tornar o código mais modular, reutilizável e fácil de manter, além de permitir a criação de sistemas complexos e flexíveis.
+
+2- Não, uma classe e um objeto são conceitos distintos na programação orientada a objetos. Uma classe é uma estrutura que define um conjunto de atributos e métodos que os objetos possuem. Já um objeto é uma instância específica de uma classe, que tem seus próprios valores para os atributos e pode executar os métodos definidos na classe.
+
+3- Instanciar uma classe significa criar um objeto que pertence a essa classe. Isso cria uma cópia da classe, com seus próprios valores para os atributos e a capacidade de executar os métodos definidos na classe.
+
+4- Sim, é possível utilizar a programação orientada a objetos em outras linguagens de programação. Na verdade, muitas linguagens modernas já incluem recursos para programação orientada a objetos, como Java, Python, Ruby, C++ e C#.
+
+5- Quando uma linguagem de programação é chamada de "multiparadigma", isso significa que ela suporta mais de um paradigma de programação. Isso permite que ela seja utilizada para programação orientada a objetos, programação funcional, programação procedural, entre outros.
+
+6- Em POO, um atributo é uma variável que faz parte de uma classe e pode ser usada por objetos dessa classe. Os atributos definem as características dos objetos, como nome, idade, tamanho, etc.
+
+7- Um modificador de acesso é uma palavra-chave que define como os atributos e métodos de uma classe podem ser acessados por outras classes. Os principais modificadores de acesso em POO são public, private e protected, que definem diferentes níveis de visibilidade e controle de acesso aos membros da classe.
+
+8- Hardcoding, ou codificação rígida, é uma prática de programação em que os valores dos dados são inseridos diretamente no código, em vez de serem armazenados em variáveis ou em arquivos externos. Isso pode tornar o código mais difícil de manter e modificar no futuro, especialmente se os valores precisarem ser alterados com frequência. Além disso, o hardcoding pode tornar o código menos legível e mais propenso a erros.
